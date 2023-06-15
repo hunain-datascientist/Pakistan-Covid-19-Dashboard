@@ -13,11 +13,5 @@ Interactive Visualizations: The dashboard offers a variety of interactive visual
 City-wise Analysis: Users can explore the COVID-19 situation in different cities across Pakistan and compare the number of cases, deaths, and recoveries.
 Temporal Analysis: The dashboard provides insights into how the number of COVID-19 cases, deaths, and recoveries have changed over time.
 Data Filtering: Users can filter the data based on specific cities or date ranges to focus on the information of interest.
-# How to Use the Dashboard
-Clone the repository to your local machine.
-Ensure that the required dependencies are installed (mentioned in the requirements.txt file).
-Open the dashboard by running the main file (app.py or index.html, depending on the technology used).
-Interact with the visualizations by selecting cities, adjusting date ranges, or exploring different tabs within the dashboard.
-Gain insights into the COVID-19 situation in Pakistan and understand the impact at the city level.
 # Feedback and Contributions
 Feedback and contributions to enhance the functionality and usability of the dashboard are highly appreciated. If you have any suggestions, bug reports, or feature requests, please feel free to create an issue or submit a pull request.
